@@ -1,6 +1,6 @@
 # Personal_Expenses
 
-A new Flutter project to manage personal expenses, from the course flutter complete guide.
+A new Flutter project to manage personal expenses.
 
 ## Getting Started
 
